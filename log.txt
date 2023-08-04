@@ -1,0 +1,2999 @@
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            38.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            39.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            33.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            44.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            44.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector G)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+root@imx8qxpc0mek-auo:~# gputop -m occupancy
+[H[J[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            38.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            51.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            39.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 64.00%
+ SH (Shader Engine)                56.00%
+ PA (Primitive Assembly)           15.00%
+ SE (Setup Engine)                 54.00%
+ RA (Rasterizer)                   56.00%
+ TX (Texture Engine)               56.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                7.00%
+ BP                                0.00%
+ MC (Memory Controller)            81.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             39.00%
+ USAGE                             61.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            48.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 9.00%
+ SH (Shader Engine)                9.00%
+ PA (Primitive Assembly)           6.00%
+ SE (Setup Engine)                 9.00%
+ RA (Rasterizer)                   9.00%
+ TX (Texture Engine)               9.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             92.00%
+ USAGE                             8.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 14.00%
+ SH (Shader Engine)                14.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 14.00%
+ RA (Rasterizer)                   14.00%
+ TX (Texture Engine)               14.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            56.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             86.00%
+ USAGE                             14.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            50.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            49.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            39.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            43.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            42.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            52.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            43.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            49.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 14.00%
+ SH (Shader Engine)                12.00%
+ PA (Primitive Assembly)           4.00%
+ SE (Setup Engine)                 12.00%
+ RA (Rasterizer)                   12.00%
+ TX (Texture Engine)               12.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            57.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             86.00%
+ USAGE                             14.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            51.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            49.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            44.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 31.00%
+ SH (Shader Engine)                30.00%
+ PA (Primitive Assembly)           1.00%
+ SE (Setup Engine)                 29.00%
+ RA (Rasterizer)                   30.00%
+ TX (Texture Engine)               30.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            64.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             69.00%
+ USAGE                             31.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 53.00%
+ SH (Shader Engine)                54.00%
+ PA (Primitive Assembly)           13.00%
+ SE (Setup Engine)                 52.00%
+ RA (Rasterizer)                   53.00%
+ TX (Texture Engine)               53.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            73.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             48.00%
+ USAGE                             52.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            50.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 15.00%
+ SH (Shader Engine)                16.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 16.00%
+ RA (Rasterizer)                   16.00%
+ TX (Texture Engine)               16.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            55.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             84.00%
+ USAGE                             16.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            54.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            38.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            36.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 67.00%
+ SH (Shader Engine)                62.00%
+ PA (Primitive Assembly)           20.00%
+ SE (Setup Engine)                 60.00%
+ RA (Rasterizer)                   62.00%
+ TX (Texture Engine)               61.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                5.00%
+ BP                                0.00%
+ MC (Memory Controller)            78.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             32.00%
+ USAGE                             68.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            42.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            43.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            37.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            42.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 42.00%
+ SH (Shader Engine)                35.00%
+ PA (Primitive Assembly)           6.00%
+ SE (Setup Engine)                 35.00%
+ RA (Rasterizer)                   36.00%
+ TX (Texture Engine)               35.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                6.00%
+ BP                                0.00%
+ MC (Memory Controller)            67.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             59.00%
+ USAGE                             41.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            39.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            39.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            48.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            42.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 1.00%
+ SH (Shader Engine)                1.00%
+ PA (Primitive Assembly)           1.00%
+ SE (Setup Engine)                 1.00%
+ RA (Rasterizer)                   1.00%
+ TX (Texture Engine)               1.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            49.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             99.00%
+ USAGE                             1.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 8.00%
+ SH (Shader Engine)                8.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 8.00%
+ RA (Rasterizer)                   8.00%
+ TX (Texture Engine)               8.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            55.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             92.00%
+ USAGE                             8.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            57.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 59.00%
+ SH (Shader Engine)                53.00%
+ PA (Primitive Assembly)           17.00%
+ SE (Setup Engine)                 52.00%
+ RA (Rasterizer)                   52.00%
+ TX (Texture Engine)               52.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                6.00%
+ BP                                0.00%
+ MC (Memory Controller)            73.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             42.00%
+ USAGE                             58.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 6.00%
+ SH (Shader Engine)                6.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 6.00%
+ RA (Rasterizer)                   6.00%
+ TX (Texture Engine)               6.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            48.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             94.00%
+ USAGE                             6.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            49.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            33.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            50.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            53.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            42.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            44.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            48.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            35.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            50.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 8.00%
+ SH (Shader Engine)                8.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 7.00%
+ RA (Rasterizer)                   8.00%
+ TX (Texture Engine)               8.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             92.00%
+ USAGE                             8.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 58.00%
+ SH (Shader Engine)                52.00%
+ PA (Primitive Assembly)           21.00%
+ SE (Setup Engine)                 51.00%
+ RA (Rasterizer)                   50.00%
+ TX (Texture Engine)               52.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                6.00%
+ BP                                0.00%
+ MC (Memory Controller)            76.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             43.00%
+ USAGE                             57.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 15.00%
+ SH (Shader Engine)                15.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 15.00%
+ RA (Rasterizer)                   15.00%
+ TX (Texture Engine)               15.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            53.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             85.00%
+ USAGE                             15.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            42.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            43.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 46.00%
+ SH (Shader Engine)                39.00%
+ PA (Primitive Assembly)           15.00%
+ SE (Setup Engine)                 39.00%
+ RA (Rasterizer)                   39.00%
+ TX (Texture Engine)               39.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                7.00%
+ BP                                0.00%
+ MC (Memory Controller)            72.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             55.00%
+ USAGE                             45.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            49.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            33.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            43.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            38.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            43.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            38.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 23.00%
+ SH (Shader Engine)                17.00%
+ PA (Primitive Assembly)           5.00%
+ SE (Setup Engine)                 17.00%
+ RA (Rasterizer)                   17.00%
+ TX (Texture Engine)               17.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                6.00%
+ BP                                0.00%
+ MC (Memory Controller)            59.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             77.00%
+ USAGE                             23.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            50.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            49.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            50.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            53.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 17.00%
+ SH (Shader Engine)                18.00%
+ PA (Primitive Assembly)           6.00%
+ SE (Setup Engine)                 18.00%
+ RA (Rasterizer)                   17.00%
+ TX (Texture Engine)               17.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            50.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             83.00%
+ USAGE                             17.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            43.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            41.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            39.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            43.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            39.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            48.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 33.00%
+ SH (Shader Engine)                32.00%
+ PA (Primitive Assembly)           6.00%
+ SE (Setup Engine)                 31.00%
+ RA (Rasterizer)                   31.00%
+ TX (Texture Engine)               31.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            60.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             67.00%
+ USAGE                             33.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 48.00%
+ SH (Shader Engine)                44.00%
+ PA (Primitive Assembly)           13.00%
+ SE (Setup Engine)                 43.00%
+ RA (Rasterizer)                   44.00%
+ TX (Texture Engine)               44.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                5.00%
+ BP                                0.00%
+ MC (Memory Controller)            73.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             52.00%
+ USAGE                             48.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 15.00%
+ SH (Shader Engine)                15.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 15.00%
+ RA (Rasterizer)                   15.00%
+ TX (Texture Engine)               15.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            51.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             85.00%
+ USAGE                             15.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            54.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            40.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 44.00%
+ SH (Shader Engine)                38.00%
+ PA (Primitive Assembly)           17.00%
+ SE (Setup Engine)                 38.00%
+ RA (Rasterizer)                   38.00%
+ TX (Texture Engine)               38.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                6.00%
+ BP                                0.00%
+ MC (Memory Controller)            67.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             58.00%
+ USAGE                             42.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 15.00%
+ SH (Shader Engine)                15.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 15.00%
+ RA (Rasterizer)                   15.00%
+ TX (Texture Engine)               15.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            53.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             84.00%
+ USAGE                             16.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 35.00%
+ SH (Shader Engine)                35.00%
+ PA (Primitive Assembly)           9.00%
+ SE (Setup Engine)                 34.00%
+ RA (Rasterizer)                   35.00%
+ TX (Texture Engine)               35.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            66.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             65.00%
+ USAGE                             35.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 49.00%
+ SH (Shader Engine)                49.00%
+ PA (Primitive Assembly)           14.00%
+ SE (Setup Engine)                 47.00%
+ RA (Rasterizer)                   49.00%
+ TX (Texture Engine)               49.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            74.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             51.00%
+ USAGE                             49.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 16.00%
+ SH (Shader Engine)                16.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 16.00%
+ RA (Rasterizer)                   16.00%
+ TX (Texture Engine)               16.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            54.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             84.00%
+ USAGE                             16.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            59.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            47.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            45.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 24.00%
+ SH (Shader Engine)                24.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 22.00%
+ RA (Rasterizer)                   24.00%
+ TX (Texture Engine)               24.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            55.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             76.00%
+ USAGE                             24.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            49.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 0.00%
+ SH (Shader Engine)                0.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 0.00%
+ RA (Rasterizer)                   0.00%
+ TX (Texture Engine)               0.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            37.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             100.00%
+ USAGE                             0.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 41.00%
+ SH (Shader Engine)                41.00%
+ PA (Primitive Assembly)           14.00%
+ SE (Setup Engine)                 40.00%
+ RA (Rasterizer)                   41.00%
+ TX (Texture Engine)               41.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            66.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             59.00%
+ USAGE                             41.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 16.00%
+ SH (Shader Engine)                16.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 16.00%
+ RA (Rasterizer)                   16.00%
+ TX (Texture Engine)               16.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            53.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             84.00%
+ USAGE                             16.00%
+
+[H[JOccupancy | 5 / 6  (sample_mode: TIME - 1.0 secs)
+ FE (Graphics Pipeline Front End)  100.00%
+ DE (Draw Engine)                  0.00%
+ PE (Pixel Engine)                 14.00%
+ SH (Shader Engine)                14.00%
+ PA (Primitive Assembly)           0.00%
+ SE (Setup Engine)                 14.00%
+ RA (Rasterizer)                   14.00%
+ TX (Texture Engine)               14.00%
+ VG (Vector Graphics)              0.00%
+ IM                                0.00%
+ FP (Fragment processor)           0.00%
+ TS (Tile status)                  0.00%
+ BL                                0.00%
+ BP                                0.00%
+ MC (Memory Controller)            46.00%
+ AXI_LP (AXI bus in low power)     0.00%
+ IDLE0                             86.00%
+ USAGE                             14.00%
+
