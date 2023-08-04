@@ -1,0 +1,2 @@
+# PuttyDataCollector
+將putty上的資料log下來並針對特定資料進行資料繪圖,並且輸出成.csv
