@@ -28,3 +28,6 @@ Enter the CSV filename (e.g., data.csv): output
 
 
 ![繪製圖形](https://github.com/coolping/PuttyDataCollector/blob/main/Figure_1.png?raw=true)
+
+另一個選擇, 透過DASH以及plotly來繪圖
+![繪製圖形](https://github.com/coolping/PuttyDataCollector/blob/main/pic/dash.png?raw=true)
